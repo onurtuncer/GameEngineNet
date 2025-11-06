@@ -1,3 +1,11 @@
+*/.vs/*
+.vs/*
+
+build/*
+
+*/obj/*
+*/bin/*
+
 # Prerequisites
 *.d
 
